@@ -1,0 +1,4 @@
+Estimation du PageRank (random walk - 25 itérations - damping 0.9) : 
+[0.16, 0.2, 0.16, 0.12, 0.36]
+Estimation du PageRank (méthode matricielle) - 25 itérations - damping 0.9 : 
+[0.03800000000000003, 0.17960674190896989, 0.2873707867385369, 0.02000000000000001, 0.47502247135249404]

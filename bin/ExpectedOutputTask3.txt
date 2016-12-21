@@ -1,0 +1,6 @@
+La page 0 a été visitée 4 fois. Son PageRank estimé est de 0.2
+La page 1 a été visitée 4 fois. Son PageRank estimé est de 0.2
+La page 2 a été visitée 4 fois. Son PageRank estimé est de 0.2
+La page 3 a été visitée 3 fois. Son PageRank estimé est de 0.15
+La page 4 a été visitée 5 fois. Son PageRank estimé est de 0.25
+Il faut 2687 itérations pour avoir un résultat précis

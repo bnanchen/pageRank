@@ -1,0 +1,21 @@
+﻿L'utilisateur visite la page 0
+L'utilisateur visite la page 2
+L'utilisateur visite la page 4
+L'utilisateur visite la page 1
+L'utilisateur visite la page 3
+L'utilisateur visite la page 0
+L'utilisateur visite la page 3
+L'utilisateur visite la page 0
+L'utilisateur visite la page 1
+L'utilisateur visite la page 2
+Visualisation graphique des visites : 
+x----
+--x--
+----x
+-x---
+---x-
+x----
+---x-
+x----
+-x---
+--x--

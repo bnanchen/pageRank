@@ -1,0 +1,5 @@
+Entrez le nombre de pas : 
+20
+Entrez le facteur de damping : 
+0.4
+Séquence des pages suivies : [0, 0, 1, 3, 3, 0, 3, 4, 4, 2, 3, 2, 4, 2, 0, 2, 2, 2, 4, 3]
